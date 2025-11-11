@@ -25,7 +25,7 @@ Make it executable:
 ```bash
 chmod +x gnomp.sh
 ```
-Run the script from your terminal:
+Run:
 ```bash
 ./gnomp.sh
 ```
