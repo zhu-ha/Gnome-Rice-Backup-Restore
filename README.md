@@ -13,10 +13,14 @@ Ensure the following tools are installed before running:
 - `gnome-extensions` or `gnome-extensions-cli`
 
 ---
-
 ## Installation
 
-Save the script and make it executable:
+Clone the repository:
+```bash
+git clone https://github.com/ext4zu/gnomp.git
+cd gnomp
+```
+Make it executable:
 ```bash
 chmod +x gnomp.sh
 ```
